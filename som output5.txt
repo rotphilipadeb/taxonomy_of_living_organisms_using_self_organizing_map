@@ -1,0 +1,141 @@
+run:
+Iterations: 147
+Neighborhood radius reduced after 127 iterations.
+Clusters for training input:
+
+Vector (Pattern 0, CATERPILLA) fits into category 22
+
+Vector (Pattern 1, CRAYFISH) fits into category 23
+
+Vector (Pattern 2, FLIES) fits into category 22
+
+Vector (Pattern 3, GRASSHOPPER) fits into category 22
+
+Vector (Pattern 4, MOSQUITO) fits into category 22
+
+Vector (Pattern 5, SCORPION) fits into category 22
+
+Vector (Pattern 6, SPIDER) fits into category 22
+
+Vector (Pattern 7, FLEA) fits into category 22
+
+Vector (Pattern 8, JELLYFISH) fits into category 0
+
+Vector (Pattern 9, SALMON) fits into category 8
+
+Vector (Pattern 10, SARDINE) fits into category 8
+
+Vector (Pattern 11, SAWFISH) fits into category 8
+
+Vector (Pattern 12, WHALE) fits into category 8
+
+Vector (Pattern 13, EEL) fits into category 0
+
+Vector (Pattern 14, TILAPIA) fits into category 0
+
+Vector (Pattern 15, ADDER) fits into category 12
+
+Vector (Pattern 16, ALLIGATOR) fits into category 12
+
+Vector (Pattern 17, ANACONDA) fits into category 12
+
+Vector (Pattern 18, RAY) fits into category 0
+
+Vector (Pattern 19, ANT) fits into category 22
+
+Vector (Pattern 20, CHIMAERA) fits into category 0
+
+Vector (Pattern 21, DOGFISH) fits into category 0
+
+Vector (Pattern 22, CATFISH) fits into category 0
+
+Vector (Pattern 23, MACKEREL) fits into category 0
+
+Vector (Pattern 24, TUNA) fits into category 0
+
+Vector (Pattern 25, PYTHON) fits into category 12
+
+Vector (Pattern 26, CHAMELEON) fits into category 12
+
+Vector (Pattern 27, TORTOISE) fits into category 12
+
+Vector (Pattern 28, TURTLE) fits into category 12
+
+Vector (Pattern 29, LIZARD) fits into category 12
+
+Vector (Pattern 30, GECKO) fits into category 12
+
+Vector (Pattern 31, ASP) fits into category 12
+
+Vector (Pattern 32, SHARK) fits into category 0
+
+Vector (Pattern 33, TOAD) fits into category 12
+
+Vector (Pattern 34, SALAMANDA) fits into category 12
+
+Vector (Pattern 35, CAECILIAN) fits into category 12
+
+Vector (Pattern 36, NEWTS) fits into category 12
+
+Vector (Pattern 37, MUDPUPPY) fits into category 12
+
+Vector (Pattern 38, AMPHIUMA) fits into category 12
+
+Vector (Pattern 39, BEE) fits into category 22
+
+Vector (Pattern 40, BEETLE) fits into category 22
+
+Vector (Pattern 41, OSTRICH) fits into category 2
+
+Vector (Pattern 42, COW) fits into category 2
+
+Vector (Pattern 43, PENGUIN) fits into category 2
+
+Vector (Pattern 44, BUSTARD) fits into category 2
+
+Vector (Pattern 45, PIGEON) fits into category 2
+
+Vector (Pattern 46, COCKROACH) fits into category 22
+
+Vector (Pattern 47, VULTURE) fits into category 2
+
+Vector (Pattern 48, SPARROW) fits into category 2
+
+Vector (Pattern 49, COBRA) fits into category 12
+
+Vector (Pattern 50, COCRODILE) fits into category 12
+
+Vector (Pattern 51, PEACOCK) fits into category 2
+
+Vector (Pattern 52, DOG) fits into category 2
+
+Vector (Pattern 53, DOLPHIN) fits into category 8
+
+Vector (Pattern 54, ZEBRA) fits into category 2
+
+Vector (Pattern 55, RABBIT) fits into category 2
+
+Vector (Pattern 56, HUMAN) fits into category 2
+
+Vector (Pattern 57, DUCK) fits into category 2
+
+Vector (Pattern 58, ELEPHANT) fits into category 2
+
+Vector (Pattern 59, EAGLE) fits into category 8
+
+Vector (Pattern 60, FROG) fits into category 12
+
+Vector (Pattern 61, PIG) fits into category 2
+
+Vector (Pattern 62, GORILLA) fits into category 2
+
+Vector (Pattern 63, GOOSE) fits into category 8
+
+Vector (Pattern 64, HAWK) fits into category 2
+
+Vector (Pattern 65, HORSE) fits into category 2
+
+Vector (Pattern 66, LION) fits into category 2
+
+Vector (Pattern 67, OWL) fits into category 2
+BUILD SUCCESSFUL (total time: 1 second)
