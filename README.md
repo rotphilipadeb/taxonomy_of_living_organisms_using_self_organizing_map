@@ -13,3 +13,5 @@ revealed that SOM is a veritable tool or algorithm that can be used to classify 
 taxonomists, biologists and students who spend much time in classifying living organism and it will be of help to researchers 
 who want to explore the SOM algorithm as a solution to taxonomy of living organisms. The SOM will ease taxonomy and will 
 help to minimize the stress and time involved in classifying thousands of living organisms. 
+
+<b>Read the research paper here: https://www.sciencepublishinggroup.com/article/10.11648/j.ajai.20200402.12</b>
