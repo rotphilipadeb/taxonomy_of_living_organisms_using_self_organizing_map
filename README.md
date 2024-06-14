@@ -1,6 +1,6 @@
 # taxonomy_of_living_organisms_using_self_organizing_map
 <p><i>This is an SOM, an unsupervised algorithm, project done in 2012. The paper was published in 2020.</i></p>
-<img src="animals.jpg" alt="animals classification" width="700" height="500">
+<img src="animals.jpg" alt="animals classification" width="600" height="350">
 
 <p>The Self Organizing Map (SOM) is an unsupervised network algorithm that projects high dimensional data into 
 low dimensional maps. The projection preserves the topology of the data so that similar data items are mapped to nearby 
